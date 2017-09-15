@@ -1,6 +1,9 @@
 ## Presentation used for demo
 https://docs.google.com/presentation/d/17Gbr_jaj-2nz77o966Ribdwl0voi2zYooLZEp0rTt9U/edit?usp=sharing
 
+### Codes of Conduct
+1. Do not look at my CSS pls
+
 ---
 
 
